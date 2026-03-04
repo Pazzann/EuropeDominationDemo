@@ -2,7 +2,7 @@
 
 # 🌍 Europe Domination
 
-**A turn-based grand strategy game built with Godot Engine and C#.**
+**A realtime grand strategy game built with Godot Engine and C#.**
 
 ![demo](./demo.gif)
 
@@ -12,7 +12,7 @@
 
 ## 📌 About The Project
 
-**Europe Domination** is a turn-based grand strategy game where players manage resources, expand territories, and outmaneuver opponents across a map of Europe.
+**Europe Domination** is a realtime grand strategy game where players manage resources, expand territories, and outmaneuver opponents across a map of Europe.
 
 Developed as a deep dive into game engine architecture and object-oriented design, the project demonstrates complex UI management, interactive map logic, and robust game state persistence.
 
